@@ -1,4 +1,4 @@
-# sierpinski [COS 126]
+# sierpinski
 
 **Transform2D.java** is a library of static methods that performs geometric transforms (scaling, translation, and rotation) on polygons.
 
@@ -9,3 +9,7 @@ For example, here are three variation of `Art 1` through `Art 9`:
 ![alt text](https://github.com/vickiwyang/sierpinski/blob/main/squares_h.png)
 
 **Sierpinski.java** recursively plots a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) of order *n*.
+
+--
+
+*This assignment was completed as part of COS 126 at Princeton University.*
