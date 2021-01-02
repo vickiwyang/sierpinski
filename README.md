@@ -1,4 +1,4 @@
-# sierpinski
+# sierpinski [COS 126]
 
 **Transform2D.java** is a library of static methods that performs geometric transforms (scaling, translation, and rotation) on polygons.
 
