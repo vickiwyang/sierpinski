@@ -1,6 +1,6 @@
 # sierpinski
 
-**Transform2D.java** is a library of static methods that performs geometry transforms (scaling, translation, and rotation) on polygons.
+**Transform2D.java** is a library of static methods that performs geometric transforms (scaling, translation, and rotation) on polygons.
 
 **Art.java** uses this library to create *De Stijl*-inspired line art. The program draws *n*-levels of rectangles that are randomly "split" horizontally or vertically, with each level scaling down to 50-90 percent of the previous level's size. Rectangle size, line thickness, and angle of split vary randomly across levels, so that a different graphic is produced each time the program is run.
 
