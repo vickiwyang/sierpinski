@@ -9,7 +9,3 @@ For example, here are three variation of `Art 1` through `Art 9`:
 ![three runs of Art.java](https://github.com/vickiwyang/sierpinski/blob/main/squares_h.png)
 
 **Sierpinski.java** recursively plots a [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) of order *n*.
-
---
-
-*Completed as part of COS 126 at Princeton University*
