@@ -12,4 +12,4 @@ For example, here are three variation of `Art 1` through `Art 9`:
 
 --
 
-*This assignment was completed as part of COS 126 at Princeton University in Spring 2020.*
+*Completed as part of COS 126 at Princeton University*
